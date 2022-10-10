@@ -1,0 +1,48 @@
+* {
+    margin: 0 auto;
+    box-sizing: border-box;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
+
+body {
+    background-color: #fdfdfd;
+}
+
+.app-container{
+     margin-top: 100px;
+}
+
+.register--button {
+    background-color: #000;
+    color: #fff;
+    padding: 10px;
+    margin-top: 10px;
+    background-color: #124474;
+    border-color: #124474;
+    font-size: 15px;
+}
+
+.register--button:hover {
+    background-color: #212b35;
+    transition: 1s all;
+}
+
+.register--container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    background-color: rgba(81, 119, 224, 0.952);
+    border-radius: 150px;
+    border-bottom-left-radius: 50px;
+    width: 50%;
+    height: 250px;
+    color: #fff;
+}
+
+.regiter--input {
+    outline: none;
+    width: 35%;
+    padding: 5px 5px;
+    margin-top: 5px;
+}
