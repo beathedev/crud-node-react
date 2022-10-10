@@ -5,11 +5,11 @@ Juntamente também, com a ligação do back-end e o front-end</p>
 
 # Configuração
 <p>Para configurar o banco de dados desse projeto, basta baixar o sql disponivel no repositório. No arquivo "index.js" dentro da pasta client é necessário definir um
-usuario e a senha de acordo com o banco de dados instalado na máquina. </p>
+usuario(user) e a senha(password) de acordo com o banco de dados instalado na máquina. (Como mostra no exemplo abaixo) </p>
+<img src="https://user-images.githubusercontent.com/92948733/194962193-dc5c9bae-6dbb-4ad1-acbb-874cb3e8852f.png" />
+
 
 # Tecnologias utilizadas
-
-
 <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)" />
 <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
 <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
